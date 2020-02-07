@@ -7,4 +7,3 @@ Contact
 =======
 Question? Please contact <email>
 
-Contact Anuttara
