@@ -12,13 +12,12 @@ Here is some text expalining frezca stuff.
 Guides
 ^^^^^^
 	
-
 .. toctree::
    :maxdepth: 2
-    
+
    license
    help
-   :caption: Contents:
+   
 
 
 
