@@ -21,7 +21,8 @@ Guides
 
    license
    help
-   
+   Schedule
+   Contacts
 
 
 
