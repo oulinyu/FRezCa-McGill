@@ -1,5 +1,9 @@
-Welcome to FRezCa!
+FRezCa
 ==================================
+
+What is FRezCa?
+
+-some info- 
 
 Another simple header
 =====================
