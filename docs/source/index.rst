@@ -7,13 +7,12 @@ The FRezCa (First-year Residence Cafeteria) tutorial program was established in 
 
 At FRezCa, various TAs and TEAM (Tomlinson Engagegement Award for Mentoring) award recipients are present to answer questions and guide new university students in their freshman science courses. The mix between students who have succesfully completed these courses in their university careers (TEAM mentors) with experienced TAs studying more advanced materials allows for a collaborative environment with various levels of expertise. 
 
-Another simple header
-=====================
+FRezCa Sign-in
+==============
 
-Here is some text expalining frezca stuff.
-   code-block:: python
-    print 'hello'
-    >> hello
+.. image:: ../../image/FRezca.QR.png
+  :width: 200
+  :alt: Alternative text
 
 Guides
 ^^^^^^
