@@ -1,6 +1,6 @@
 Contact
 =======
-Question? Please contact anita.parmar@mcgill.ca
+Question? Please contact iris.guo@mail.mcgill.ca
 
 Feedback
 ========
