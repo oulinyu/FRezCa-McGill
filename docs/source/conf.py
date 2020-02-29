@@ -58,4 +58,6 @@ html_static_path = ['_static']
 
 html_extra_path = [
 'robots.txt',
+'google3d23cfca21db62e9.html',
+'sitemap.xml'
 ]
