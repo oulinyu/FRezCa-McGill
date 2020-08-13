@@ -1,6 +1,6 @@
 Contact
 =======
-Question? Please contact iris.guo@mail.mcgill.ca
+Question? Please contact frezca.science@mcgill.ca
 
 Feedback
 ========
