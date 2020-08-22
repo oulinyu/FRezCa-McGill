@@ -18,8 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'FRezCa'
-copyright = '2020, Donghoon Lee'
-author = 'Donghoon Lee'
+copyright = '2020, FRezCa Team McGill'
+author = 'FRezCa Team McGill'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
