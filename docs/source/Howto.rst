@@ -1,7 +1,7 @@
 .. _Howto:
 
 How to use Virtual FRezCa?
-=========================
+==========================
 Access
 ------
 In your FRezCa myCourses, you will find information on how to join the Microsoft FRezCa Teams.

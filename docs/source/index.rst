@@ -5,6 +5,7 @@ What is FRezCa?
 ---------------
 
 FRezCa (Freshman Residence Cafeteria) tutorials is a space for U0/U1 students in large science classes to:
+
 - Work together
 - Study in shared space
 - Learn from each other
@@ -13,15 +14,76 @@ FRezCa (Freshman Residence Cafeteria) tutorials is a space for U0/U1 students in
 
 FRezCa was previously held in the Royal Victoria College residence cafeteria but this semester (Fall 2020) will be a fully online virtual platform held on MS Teams! All students enrolled in BIOL 111, BIOL 200, CHEM 110, CHEM 212, CHEM 222, MATH 133, MATH 140, MATH 141, PHYS 101 and PHYS 131 are welcome to participate.
 
-To get started, visit :ref:`Howto`.
+Getting started
+---------------
+In your FRezCa myCourses, you will find information on how to join the Microsoft FRezCa Teams.
+If you are not in FRezCa myCourses, you should contact your course instructor and he/she will be able to invite you!
 
-History of FRezCa
------------------
+Channels in MS Teams
+--------------------
+- **General:** Important announcements or posts may be linked here, students cannot chat in this channel.
+- **Course channels:**
+    * TAs and TEAM mentors will host meetings at set hours (see :ref:`Schedule`).
+    * Students can join these meetings (audio/video optional) to ask questions to TA/TEAM, discuss with each other, meet other students and work together on homework and assignments. Chat function (replying to threads) is turned on.
+    * Students cannot start their own meetings or question threads in course channels.
+- **Virtual cafe:** Casual virtual space, not led by TAs or TEAM mentors (but still moderated by FRezCa admin), open always.
+    * Students can start their own message threads, start meetings (audio/video optional), reply to each other and chat in meetings.
+    * Students may choose to group up by course or year if desired, depending on other students' current availability.
+    * At certain set hours (see :ref:`Schedule`), FRezCa staff will start meetings for students to join. However, the virtual space remains open outside of these hours if students would like to set up other times to work collaboratively in the Cafe.
+- **Virtual library:** Casual quiet virtual space, not led by TAs or TEAM mentors (but still moderated by FRezCa admin), open always.
+    * Students can start their own message threads and chat by replying to threads or starting other conversations in the channel.
+    * Students SHOULD NOT use the voice and video functions if they choose to start a meeting to maintain a quiet zone for independent studying in a virtual shared space.
+    * At certain set hours (see :ref:`Schedule`), FRezCa staff will start meetings for students to join. However, the virtual space remains open outside of these hours if students would like to set up other times to work silently in the Library.
 
-The FRezCa (First-year Residence Cafeteria) tutorial program was established in 2014 to address typical “large classroom” issues faced by incoming STEM students. FRezCa aims to be a “learning community” by creating a supportive environment that can help address the challenges faced by incoming university students, including the often isolating experience of large, auditorium-style lecture classes. In freshman-level Chemistry, Physics, Mathematics, and Biology, professors are tasked with conveying a broad base of subject material within a relatively short period of time to students with diverse disciplinary interests and varying levels of preparation.
+**Within each channel, users can:**
 
-At FRezCa, various TAs and TEAM (Tomlinson Engagement Award for Mentoring) award recipients are present to answer questions and guide new university students in their freshman science courses. FRezCa aims to facilitate discussion between students and encourages teamwork and discussion based learning. TEAM mentors and TAs are present to direct students towards the right answers and improve understanding of scientific contents covered in class. The mix between students who have successfully completed these courses in their university careers (TEAM mentors) with experienced TAs studying more advanced materials allows for a collaborative environment with various levels of expertise.
+- Join meetings (with audio for up to 250 participants, video for up to 9 participants)
+- Share screen within a meeting (permissions open for students and TAs/TEAM/staff)
+- Use chat function in meeting or reply to thread in comments to communicate by text
+- Use raise hand feature to signal desire to ask a question out loud
+- Write collaboratively on the Course OneNote (listed in the topbar tabs) to make notes, use as a whiteboard, draw, write, etc.
 
+FRezCa Schedule
+---------------
+
+"Library" and "Cafe" events posted on the schedule are open to all U0 and U1 students enrolled in FRezCa courses. U0 and U1 Formal FRezCa sessions will be staffed by TA's, undergraduate student mentors, and occasionally even the course professors.
+
+
+.. list-table:: Fall 2020 Virtual FRezCa Sessions
+   :align: center
+   :widths: 18 15 15 22 17 16
+   :header-rows: 1
+
+   * - Time
+     - Monday
+     - Tuesday
+     - Wednesday
+     - Thursday
+     - Friday
+   * - 8am-12pm
+     -
+     - Café
+     -
+     - Café
+     - Café
+   * - 2pm-4pm
+     - U0 FRezCa
+     - U1 FRezCa
+     - U0 FRezCa
+     - U1 FRezCa
+     - U0 FRezCa
+   * - 6pm-10pm
+     - Library
+     - Library
+     - Library
+     - Library
+     - Library
+
+**Café and Library are also open at all other times (unstaffed) if students would like to communicate on their own.**
+
+Code of Conduct
+---------------
+Please also read :ref:`code` :)
 
 Contact us!
 -----------
@@ -29,11 +91,10 @@ Questions or feedback? Please contact frezca.science@mcgill.ca
 
 Guides
 ^^^^^^
-
 .. toctree::
    :maxdepth: 2
    
-   Howto
+   History
    Code
    Schedule
    Contacts
