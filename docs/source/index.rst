@@ -43,6 +43,14 @@ Channels in MS Teams
 - Use raise hand feature to signal desire to ask a question out loud
 - Write collaboratively on the Course OneNote (listed in the topbar tabs) to make notes, use as a whiteboard, draw, write, etc.
 
+**Bubble digram summarizing the structure of online FRezCa**
+
+.. image:: ../../image/bubble.png
+   :scale: 50 %
+   :alt: Online FRezCa Bubble Diagram
+   :align: center
+
+
 FRezCa Schedule
 ---------------
 
@@ -93,7 +101,7 @@ Guides
 ^^^^^^
 .. toctree::
    :maxdepth: 2
-   
+
    History
    Code
    Schedule
