@@ -16,6 +16,11 @@ FRezCa was previously held in the Royal Victoria College residence cafeteria but
 
 Getting started
 ---------------
+
+.. raw:: html
+
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/xZk9bVRPU9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In your FRezCa myCourses, you will find information on how to join the Microsoft FRezCa Teams.
 If you are not in FRezCa myCourses, you should contact your course instructor and he/she will be able to invite you!
 
