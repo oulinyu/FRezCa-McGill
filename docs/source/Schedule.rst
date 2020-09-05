@@ -8,35 +8,48 @@ FRezCa Schedule
 
 .. list-table:: Fall 2020 Virtual FRezCa Sessions
    :align: center
-   :widths: 18 15 15 22 17 16
+   :widths: 7 31 31 31
    :header-rows: 1
 
-   * - Time
-     - Monday
-     - Tuesday
-     - Wednesday
-     - Thursday
-     - Friday
-   * - 8am-12pm
+   * - Day
+     - 8am - 12pm
+     - 2pm - 4pm
+     - 6pm - 10pm
+   * - Mon
+     - Math 133/139/140/141
+     - Math 133/139/140/141
+     - | Biol 111
+       | Math 133/139/140/141
+       | Phys 101/131
+   * - Tue
      -
-     - Café
      -
-     - Café
-     - Café
-   * - 2pm-4pm
-     - U0 FRezCa
-     - U1 FRezCa
-     - U0 FRezCa
-     - U1 FRezCa
-     - U0 FRezCa
-   * - 6pm-10pm
-     - Library
-     - Library
-     - Library
-     - Library
-     - Library
+     - | Biol 200
+       | Chem 212/222
+   * - Wed
+     - | Biol 111
+       | Math 133/139/140/141
+       | Phys 101/131
+     - | Chem 110
+       | Math 133/139/140/141
+     - | Chem 110
+       | Math 133/139/140/141
+   * - Thu
+     - Math 133/139/140/141
+     - | Biol 111
+       | Chem 100
+       | Math 133/139/140/141
+     - | Biol 111
+       | Math 133/139/140/141
+   * - Fri
+     -
+     - | Biol 200
+       | Chem 110/212/222
+       | Phys 101/131
+     -
 
-**Café and Library are also open at all other times (unstaffed) if students would like to communicate on their own.**
+
+**Café and Library are also open at all times (unstaffed) if students would like to communicate on their own.**
 
 Fall 2020 participating courses
 -------------------------------
