@@ -70,7 +70,7 @@ FRezCa Schedule
    * - Day
      - 8am - 10am
      - 2pm - 4pm
-     - 6pm - 10pm
+     - 7pm - 9pm
    * - Mon
      - Math 133/139/140/141
      - Math 133/139/140/141
