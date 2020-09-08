@@ -68,7 +68,7 @@ FRezCa Schedule
    :header-rows: 1
 
    * - Day
-     - 8am - 12pm
+     - 8am - 10am
      - 2pm - 4pm
      - 6pm - 10pm
    * - Mon
