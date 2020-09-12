@@ -100,7 +100,7 @@ FRezCa Schedule
    * - Fri
      -
      - | Biol 200
-       | Chem 110/212/222
+       | Chem 110/212
        | Phys 101/131
      -
 

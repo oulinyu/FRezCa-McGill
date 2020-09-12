@@ -44,7 +44,7 @@ FRezCa Schedule
    * - Fri
      -
      - | Biol 200
-       | Chem 110/212/222
+       | Chem 110/212
        | Phys 101/131
      -
 
@@ -53,6 +53,6 @@ FRezCa Schedule
 
 Fall 2020 participating courses
 -------------------------------
-U0 courses: BIOL 111, CHEM 110, MATH 133/140/141, PHYS 101/131
+U0 courses: BIOL 111, CHEM 110, MATH 133/139/140/141, PHYS 101/131
 
 U1 courses: BIOL 200, CHEM 212/222
