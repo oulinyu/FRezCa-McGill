@@ -133,7 +133,6 @@ Guides
    :maxdepth: 2
 
    History
-   Live
    Code
    Schedule
    Resources
