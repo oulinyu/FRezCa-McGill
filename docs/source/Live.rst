@@ -3,11 +3,23 @@
 Live FRezCa
 ===========
 
-As FRezCa is a **collaborative**, **diverse**, and **inclusive** learning community, we aim to foster a welcoming environment that is accessible to all students. To ensure a successful experience for everybody, participants in this program are expected to follow these basic rules, procedures, and expectations:
+In addition to the main Virtual FRezCa platform on MS Teams, starting the week of Monday, Sept 21, Live FRezCa will be open. Live FRezCa for Fall 2020 is an in-person space on campus for students who would like a quiet place to work and access FRezCa.
 
-1. Be **respectful** of others regardless of their race, ethnicity, nationality, religion, belief, sex, gender identity, sexual orientation, age, disability, or any other status. Discrimination or harassment of any form will not be **tolerated**, and disruptive students may be asked to leave.
-2. All FRezCa participants are expected to display collegial, civil, and respectful behaviour at all times and towards all other participants. If you feel uncomfortable at any time due to the behaviour of others, contact FRezCa admin staff immediately.
-3. The role of TEAM mentors, TAs, and professors is to guide the learning process but not necessarily to provide direct solutions to course problems.
-4. TEAM mentors and TAs should attempt to manage their time to be fair to all students. This may include encouraging discussions amongst small groups of students. Please be respectful of other students' needs and try not to monopolize mentors and TAs.
+**As with all on-campus activities at McGill this term, masks will be mandatory at Live FRezCa.**
 
-The FRezCa Teams will be moderated by the TEAM mentors, Teaching Assistants, Professors, and FRezCa admin to ensure a safe learning environment for all students. If any problems or concerns arise, please contact the FRezCa admin immediately.
+**Where:** Arts 150 – maximum capacity of 22 students per day due to COVID-19 distancing guidelines. Please sign up in advance on `MS Bookings <https://outlook.office365.com/owa/calendar/InPersonFRezCaFall2020@McGill.onmicrosoft.com/bookings/s/N5bBnguJcEqKSOFNs6Zyhw2>`__ at least 24 hours before the session.
+
+.. image:: ../../image/arts150.jpg
+   :scale: 75 %
+   :alt: Room Arts 150
+   :align: center
+
+**When:** 3:05pm-4:55pm on Mon/Tue/Wed/Fri; 5:05pm-6:55pm on Thu
+
+**What:** A space with socially-distanced tables to work independently, or chat quietly with other students and staff present at a distance of at least 2m apart. Academic support (by teaching staff, TAs, or TEAM) will not be provided in-person at Live FRezCa – however, students are encouraged to access the MS Teams Virtual FRezCa platform while in the Live FRezCa space!
+
+Note: Although the times for Live FRezCa may not necessarily overlap with scheduled course FRezCa sessions, the Virtual Library and Café channels remain open for students at all times.
+
+**Who:** Up to 22 students/day + 1 FRezCa staff member.
+
+**Why:** While we know that not all students are currently based in Montreal, we recognize that some may want or need an on-campus space for quiet studying with big tables, natural light, and a good internet connection. This location was selected for all of the above and will exclusively be open to early-year students enrolled in courses using FRezCa. You can work independently, or feel free to discuss the undergraduate experience together, ask general questions about your faculty or department, or just come to chat with a real person face-to-face!
