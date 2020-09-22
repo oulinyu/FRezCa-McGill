@@ -64,7 +64,7 @@ FRezCa Schedule
 
 .. list-table:: Fall 2020 Virtual FRezCa Sessions
    :align: center
-   :widths: 7 31 31 31
+   :widths: 7 25 35 25
    :header-rows: 1
 
    * - Day
