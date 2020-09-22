@@ -72,36 +72,44 @@ FRezCa Schedule
      - 2pm - 4pm
      - 7pm - 9pm
    * - Mon
-     - Math 133/139/140/141
-     - Math 133/139/140/141
+     - | Math 133/139
+       | Math 140/141
+     - | Math 133/139
+       | Math 140/141
      - | Biol 111
-       | Math 133/139/140/141
+       | Math 133/139
+       | Math 140/141
        | Phys 101/131
    * - Tue
      -
-     -
+     - Phys 101/131 (2:30-4:30pm)
      - | Biol 200
        | Chem 212/222
    * - Wed
      - | Biol 111
-       | Math 133/139/140/141
+       | Math 133/139
+       | Math 140/141
        | Phys 101/131
      - | Chem 110
-       | Math 133/139/140/141
+       | Math 133/139
+       | Math 140/141
      - | Chem 110
-       | Math 133/139/140/141
+       | Math 133/139
+       | Math 140/141
    * - Thu
-     - Math 133/139/140/141
+     - | Math 133/139
+       | Math 140/141
      - | Biol 111
        | Chem 100
-       | Math 133/139/140/141
+       | Math 133/139
+       | Math 140/141
      - | Biol 111
-       | Math 133/139/140/141
+       | Math 133/139
+       | Math 140/141
    * - Fri
      -
      - | Biol 200
        | Chem 110/212
-       | Phys 101/131
      -
 
 
@@ -125,6 +133,7 @@ Guides
    :maxdepth: 2
 
    History
+   Live
    Code
    Schedule
    Resources
