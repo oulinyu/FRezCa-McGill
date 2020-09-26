@@ -3,7 +3,7 @@
 Live FRezCa
 ===========
 
-In addition to the main Virtual FRezCa platform on MS Teams, starting the week of Monday, Sept 21, Live FRezCa will be open. Live FRezCa for Fall 2020 is an in-person space on campus for students who would like a quiet place to work and access FRezCa.
+In addition to the main Virtual FRezCa platform on MS Teams, starting the week of Monday, October 5 (tentative for now due to COVID-19), Live FRezCa will be open. Live FRezCa for Fall 2020 is an in-person space on campus for students who would like a quiet place to work and access FRezCa.
 
 **As with all on-campus activities at McGill this term, masks will be mandatory at Live FRezCa.**
 
