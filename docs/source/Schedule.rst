@@ -35,8 +35,6 @@ FRezCa Schedule
        | Math 140/141
        | Phys 101/131
      - | Chem 110
-       | Math 133/139
-       | Math 140/141
      - | Chem 110
        | Math 133/139
        | Math 140/141
