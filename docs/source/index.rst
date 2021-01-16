@@ -16,14 +16,6 @@ FRezCa was previously held in the Royal Victoria College residence cafeteria, bu
 
 If the pandemic allows, a :ref:`live` will also be available in parallel to the online version for those who wishes to have some face-to-face interactions!
 
-Courses
--------
-
-Participating courses include:
-
-- **Fall:** BIO 111/200, CHEM 110/212/222, MATH 133/140/141, PHYS 101/131
-- **Winter:** BIO 112/202, CHEM 120/212/222/234, MATH 133/140/141, PHYS 102/142, MIMM 214
-
 Getting started
 ---------------
 
@@ -36,8 +28,8 @@ If you are not in FRezCa myCourses, you should contact your course instructor an
 
 You can find our channel details here: :ref:`channels`.
 
-FRezCa Schedule
----------------
+Schedule
+--------
 
 .. image:: ../../image/timetable.png
    :scale: 25 %
@@ -45,6 +37,14 @@ FRezCa Schedule
    :align: center
 
 **Virtual Café is also open at all times (unstaffed) if students would like to communicate on their own.**
+
+Courses
+-------
+
+Participating courses include:
+
+- **Fall:** BIO 111/200, CHEM 110/212/222, MATH 133/140/141, PHYS 101/131
+- **Winter:** BIO 112/202, CHEM 120/212/222/234, MATH 133/140/141, PHYS 102/142, MIMM 214
 
 Code of Conduct
 ---------------

@@ -1,7 +1,7 @@
 .. _Schedule:
 
 FRezCa Schedule
-===============
+---------------
 
 .. image:: ../../image/timetable.png
    :scale: 25 %
@@ -9,9 +9,6 @@ FRezCa Schedule
    :align: center
 
 **Virtual Café is also open at all times (unstaffed) if students would like to communicate on their own.**
-
-Courses
-=======
 
 Participating courses include:
 
