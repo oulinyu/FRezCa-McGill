@@ -3,62 +3,17 @@
 FRezCa Schedule
 ===============
 
-"Library" and "Cafe" events posted on the schedule are open to all U0 and U1 students enrolled in FRezCa courses. U0 and U1 Formal FRezCa sessions will be staffed by TA's, undergraduate student mentors, and occasionally even the course professors.
-
-
-.. list-table:: Fall 2020 Virtual FRezCa Sessions
+.. image:: ../../image/timetable.png
+   :scale: 25 %
+   :alt: FRezCa Schedule
    :align: center
-   :widths: 7 25 35 25
-   :header-rows: 1
 
-   * - Day
-     - 8am - 10am
-     - 2pm - 4pm
-     - 7pm - 9pm
-   * - Mon
-     - | Math 133/139
-       | Math 140/141
-     - | Math 133/139
-       | Math 140/141
-     - | Biol 111
-       | Math 133/139
-       | Math 140/141
-       | Phys 101/131
-   * - Tue
-     -
-     - Phys 101/131 (2:30-4:30pm)
-     - | Biol 200
-       | Chem 212/222
-   * - Wed
-     - | Biol 111
-       | Math 133/139
-       | Math 140/141
-       | Phys 101/131
-     - | Chem 110
-     - | Chem 110
-       | Math 133/139
-       | Math 140/141
-   * - Thu
-     - | Math 133/139
-       | Math 140/141
-     - | Biol 111
-       | Chem 100
-       | Math 133/139
-       | Math 140/141
-     - | Biol 111
-       | Math 133/139
-       | Math 140/141
-   * - Fri
-     -
-     - | Biol 200
-       | Chem 110/212
-     -
+**Virtual Café is also open at all times (unstaffed) if students would like to communicate on their own.**
 
+Courses
+=======
 
-**Café and Library are also open at all times (unstaffed) if students would like to communicate on their own.**
+Participating courses include:
 
-Fall 2020 participating courses
--------------------------------
-U0 courses: BIOL 111, CHEM 110, MATH 133/139/140/141, PHYS 101/131
-
-U1 courses: BIOL 200, CHEM 212/222
+- **Fall:** BIO 111/200, CHEM 110/212/222, MATH 133/140/141, PHYS 101/131
+- **Winter:** BIO 112/202, CHEM 120/212/222/234, MATH 133/140/141, PHYS 102/142, MIMM 214
