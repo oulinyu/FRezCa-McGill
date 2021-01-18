@@ -23,7 +23,7 @@ Getting started
 
      <iframe width="560" height="315" src="https://www.youtube.com/embed/xZk9bVRPU9c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-(Note that FVirtual Library was taken out, but feel free to use the Virutal Cafe!)
+(Note that Virtual Library was taken out, but feel free to use the Virtual Cafe!)
 
 In your FRezCa myCourses, you will find information on how to join the Microsoft FRezCa Teams. If you are not in FRezCa myCourses, you should contact your course instructor and he/she will be able to invite you!
 
