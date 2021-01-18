@@ -3,7 +3,7 @@
 FRezCa Schedule
 ---------------
 
-.. image:: ../../image/timetable.png
+.. image:: ../../image/timetableW2021_v2.png
    :scale: 25 %
    :alt: FRezCa Schedule
    :align: center
