@@ -32,7 +32,7 @@ You can find our channel details here: :ref:`channels`.
 Schedule
 --------
 
-.. image:: ../../image/timetableW2021_v2.png
+.. image:: ../../image/timetableW2021_v3.png
    :scale: 25 %
    :alt: FRezCa Schedule
    :align: center
