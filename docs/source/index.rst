@@ -32,8 +32,8 @@ You can find our channel details here: :ref:`channels`.
 Schedule
 --------
 
-.. image:: ../../image/timetableW2021_v4.png
-   :scale: 25 %
+.. image:: ../../image/timetableW2021_v5.png
+   :scale: 35 %
    :alt: FRezCa Schedule
    :align: center
 
